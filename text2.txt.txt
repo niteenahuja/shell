@@ -1,1 +1,6 @@
 This is git practise for commit
+
+Making changes to this file.. 
+to verify 
+git log
+git show commands
